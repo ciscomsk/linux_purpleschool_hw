@@ -1,0 +1,3 @@
+echo '172.20.1.1 dev-gateway' | sudo tee -a /etc/hosts
+или
+sudo sh -c "echo '172.20.1.1 dev-gateway' >> /etc/hosts"
