@@ -1,1 +1,1 @@
-sudo add-apt-repository -r jammy-security universe
+нужно редактировать файлы apt в /etc/apt/sources.list или /etc/apt/sources.list.d/
