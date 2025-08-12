@@ -1,0 +1,3 @@
+groupadd developers
+usermod -g developers alena
+groups
